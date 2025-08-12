@@ -1,0 +1,161 @@
+Event-0
+FastJet Jet-1 invariant mass: 27.212
+FastJet Jet-2 invariant mass: 24.712
+Four vector Jet-1 invariant mass: 27.225
+Four vector Jet-2 invariant mass: 24.713
+Four vector Dijet invariant mass: 277.459
+Collider experiment Dijet invariant mass: 232.301
+---------------------------------------------------------------
+Event-1
+FastJet Jet-1 invariant mass: 29.174
+FastJet Jet-2 invariant mass: 29.154
+Four vector Jet-1 invariant mass: 29.174
+Four vector Jet-2 invariant mass: 29.152
+Four vector Dijet invariant mass: 300.016
+Collider experiment Dijet invariant mass: 248.777
+---------------------------------------------------------------
+Event-2
+FastJet Jet-1 invariant mass: 35.474
+FastJet Jet-2 invariant mass: 12.724
+Four vector Jet-1 invariant mass: 35.476
+Four vector Jet-2 invariant mass: 12.723
+Four vector Dijet invariant mass: 100.388
+Collider experiment Dijet invariant mass: 3.329
+---------------------------------------------------------------
+Event-3
+FastJet Jet-1 invariant mass: 11.716
+FastJet Jet-2 invariant mass: 11.796
+Four vector Jet-1 invariant mass: 11.715
+Four vector Jet-2 invariant mass: 11.804
+Four vector Dijet invariant mass: 112.161
+Collider experiment Dijet invariant mass: 74.941
+---------------------------------------------------------------
+Event-4
+FastJet Jet-1 invariant mass: 17.071
+FastJet Jet-2 invariant mass: 16.482
+Four vector Jet-1 invariant mass: 17.074
+Four vector Jet-2 invariant mass: 16.488
+Four vector Dijet invariant mass: 93.761
+Collider experiment Dijet invariant mass: 11.967
+---------------------------------------------------------------
+Event-5
+FastJet Jet-1 invariant mass: 14.409
+FastJet Jet-2 invariant mass: 12.519
+Four vector Jet-1 invariant mass: 14.427
+Four vector Jet-2 invariant mass: 12.523
+Four vector Dijet invariant mass: 117.530
+Collider experiment Dijet invariant mass: 88.285
+---------------------------------------------------------------
+Event-6
+FastJet Jet-1 invariant mass: 23.120
+FastJet Jet-2 invariant mass: 8.454
+Four vector Jet-1 invariant mass: 23.120
+Four vector Jet-2 invariant mass: 8.451
+Four vector Dijet invariant mass: 124.779
+Collider experiment Dijet invariant mass: 72.378
+---------------------------------------------------------------
+Event-7
+FastJet Jet-1 invariant mass: 18.559
+FastJet Jet-2 invariant mass: 3.843
+Four vector Jet-1 invariant mass: 18.559
+Four vector Jet-2 invariant mass: 3.774
+Four vector Dijet invariant mass: 286.462
+Collider experiment Dijet invariant mass: 260.514
+---------------------------------------------------------------
+Event-8
+FastJet Jet-1 invariant mass: 11.109
+FastJet Jet-2 invariant mass: 17.386
+Four vector Jet-1 invariant mass: 11.110
+Four vector Jet-2 invariant mass: 17.385
+Four vector Dijet invariant mass: 202.962
+Collider experiment Dijet invariant mass: 187.567
+---------------------------------------------------------------
+Event-9
+FastJet Jet-1 invariant mass: 18.451
+FastJet Jet-2 invariant mass: 19.088
+Four vector Jet-1 invariant mass: 18.453
+Four vector Jet-2 invariant mass: 19.087
+Four vector Dijet invariant mass: 91.695
+Collider experiment Dijet invariant mass: 25.484
+---------------------------------------------------------------
+Event-10
+FastJet Jet-1 invariant mass: 28.661
+FastJet Jet-2 invariant mass: 23.075
+Four vector Jet-1 invariant mass: 28.663
+Four vector Jet-2 invariant mass: 23.075
+Four vector Dijet invariant mass: 210.122
+Collider experiment Dijet invariant mass: 159.022
+---------------------------------------------------------------
+Event-11
+FastJet Jet-1 invariant mass: 25.139
+FastJet Jet-2 invariant mass: 25.568
+Four vector Jet-1 invariant mass: 25.139
+Four vector Jet-2 invariant mass: 25.568
+Four vector Dijet invariant mass: 144.409
+Collider experiment Dijet invariant mass: 91.509
+---------------------------------------------------------------
+Event-12
+FastJet Jet-1 invariant mass: 12.113
+FastJet Jet-2 invariant mass: 9.130
+Four vector Jet-1 invariant mass: 12.114
+Four vector Jet-2 invariant mass: 9.131
+Four vector Dijet invariant mass: 68.964
+Collider experiment Dijet invariant mass: 34.092
+---------------------------------------------------------------
+Event-13
+FastJet Jet-1 invariant mass: 14.087
+FastJet Jet-2 invariant mass: 15.430
+Four vector Jet-1 invariant mass: 14.087
+Four vector Jet-2 invariant mass: 15.431
+Four vector Dijet invariant mass: 279.289
+Collider experiment Dijet invariant mass: 270.012
+---------------------------------------------------------------
+Event-14
+FastJet Jet-1 invariant mass: 17.936
+FastJet Jet-2 invariant mass: 14.498
+Four vector Jet-1 invariant mass: 17.928
+Four vector Jet-2 invariant mass: 14.496
+Four vector Dijet invariant mass: 196.069
+Collider experiment Dijet invariant mass: 166.505
+---------------------------------------------------------------
+Event-15
+FastJet Jet-1 invariant mass: 18.500
+FastJet Jet-2 invariant mass: 14.448
+Four vector Jet-1 invariant mass: 18.500
+Four vector Jet-2 invariant mass: 14.452
+Four vector Dijet invariant mass: 83.724
+Collider experiment Dijet invariant mass: 2.014
+---------------------------------------------------------------
+Event-16
+FastJet Jet-1 invariant mass: 27.853
+FastJet Jet-2 invariant mass: 23.728
+Four vector Jet-1 invariant mass: 27.852
+Four vector Jet-2 invariant mass: 23.725
+Four vector Dijet invariant mass: 226.925
+Collider experiment Dijet invariant mass: 164.242
+---------------------------------------------------------------
+Event-17
+FastJet Jet-1 invariant mass: 14.866
+FastJet Jet-2 invariant mass: 14.135
+Four vector Jet-1 invariant mass: 14.866
+Four vector Jet-2 invariant mass: 14.135
+Four vector Dijet invariant mass: 115.437
+Collider experiment Dijet invariant mass: 74.613
+---------------------------------------------------------------
+Event-18
+FastJet Jet-1 invariant mass: 11.605
+FastJet Jet-2 invariant mass: 14.866
+Four vector Jet-1 invariant mass: 11.593
+Four vector Jet-2 invariant mass: 14.863
+Four vector Dijet invariant mass: 509.650
+Collider experiment Dijet invariant mass: 503.710
+---------------------------------------------------------------
+Event-19
+FastJet Jet-1 invariant mass: 21.834
+FastJet Jet-2 invariant mass: 16.499
+Four vector Jet-1 invariant mass: 21.804
+Four vector Jet-2 invariant mass: 16.503
+Four vector Dijet invariant mass: 143.815
+Collider experiment Dijet invariant mass: 48.907
+---------------------------------------------------------------
+
